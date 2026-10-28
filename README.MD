@@ -13,3 +13,9 @@ The FMV videos are already voiced in english. As such, I did not feel the need t
 ## Patching manually
 
 Apply each xdelta patch to its matching original bin file.
+
+## Support
+
+If you enjoy this translation, please consider supporting me on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beanutroms)
